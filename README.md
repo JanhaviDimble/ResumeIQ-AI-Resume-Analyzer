@@ -14,11 +14,6 @@
 <img width="1920" height="1080" alt="Screenshot (2281)" src="https://github.com/user-attachments/assets/2d824118-4f44-4b50-99ab-2ac6fe796718" />
 <img width="1920" height="1080" alt="Screenshot (2283)" src="https://github.com/user-attachments/assets/da2f1dc5-0627-4d27-b659-cd0c1f05458d" />
 
-
-
-
-
-
 ---
 
 ## 🚀 Features
