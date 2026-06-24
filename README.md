@@ -5,6 +5,21 @@
 🌐 **Live at:** [resumeiq-ai-resume-analyzer.netlify.app](https://resumeiq-ai-resume-analyzer.netlify.app)
 
 ---
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (2285)" src="https://github.com/user-attachments/assets/6990dd3a-5543-4d7c-af89-f23ef3ea5012" />
+<img width="1920" height="1080" alt="Screenshot (2287)" src="https://github.com/user-attachments/assets/8e847489-67a1-4c37-b826-2bf6d4b0b7ed" />
+<img width="1920" height="1080" alt="Screenshot (2288)" src="https://github.com/user-attachments/assets/54d61f76-0461-4412-9e9e-454d61b2be7e" />
+<img width="1920" height="1080" alt="Screenshot (2278)" src="https://github.com/user-attachments/assets/ed556caf-609d-4fd6-bd10-ea13d08ae978" />
+<img width="1920" height="1080" alt="Screenshot (2281)" src="https://github.com/user-attachments/assets/2d824118-4f44-4b50-99ab-2ac6fe796718" />
+<img width="1920" height="1080" alt="Screenshot (2283)" src="https://github.com/user-attachments/assets/da2f1dc5-0627-4d27-b659-cd0c1f05458d" />
+
+
+
+
+
+
+---
 
 ## 🚀 Features
 
