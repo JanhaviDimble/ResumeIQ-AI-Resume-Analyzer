@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=ResumeIQ+🚀;✨+✨AI+Powered+Resume+Analyzer✨+✨;✨✨Land+Your+Dream+Job+Faster!+💼)](https://git.io/typing-svg)
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-6C63FF?style=for-the-badge)](https://resumeiq-ai-resume-analyzer-1.netlify.app)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
 <br/>
 
